@@ -1,2 +1,2 @@
-# First-Project
+# Web Application
 First Github Project
